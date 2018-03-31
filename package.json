@@ -1,0 +1,45 @@
+{
+  "name": "rag",
+  "version": "1.0.0",
+  "description": "Rag.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangleihd/rag.git"
+  },
+  "keywords": [
+    "Rag.js"
+  ],
+  "author": "Richard.Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangleihd/rag/issues"
+  },
+  "homepage": "https://github.com/wangleihd/rag#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-helmet": "^4.0.0",
+    "koa-router": "^7.4.0",
+    "koa-send": "^4.1.3",
+    "koa-sslify": "^2.1.2",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-helmet": "^5.2.0",
+    "react-hot-loader": "^4.0.0",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "reducers": "^3.0.0-alpha",
+    "redux": "^3.7.2",
+    "redux-actions": "^2.3.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "antd": "^3.3.3"
+  }
+}
